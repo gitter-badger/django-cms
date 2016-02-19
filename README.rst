@@ -96,3 +96,8 @@ Credits
 * Many thanks to the
   `over 250 contributors <https://github.com/divio/django-cms/blob/master/AUTHORS>`_
   to the django CMS!
+
+
+.. image:: https://badges.gitter.im/allieus/django-cms.svg
+   :alt: Join the chat at https://gitter.im/allieus/django-cms
+   :target: https://gitter.im/allieus/django-cms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
